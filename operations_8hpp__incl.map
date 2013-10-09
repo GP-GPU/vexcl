@@ -1,0 +1,15 @@
+<map id="vexcl/operations.hpp" name="vexcl/operations.hpp">
+<area shape="rect" id="node10" href="$backend_8hpp.html" title="Compile&#45;time selection of backend (OpenCL/CUDA). " alt="" coords="1337,155,1476,181"/>
+<area shape="rect" id="node34" href="$types_8hpp.html" title="Support for using native C++ and OpenCL types in expressions. " alt="" coords="643,403,764,429"/>
+<area shape="rect" id="node40" href="$util_8hpp.html" title="OpenCL general utilities. " alt="" coords="415,403,520,429"/>
+<area shape="rect" id="node42" href="$cache_8hpp.html" title="Generic online cache implementation. " alt="" coords="1394,80,1517,107"/>
+<area shape="rect" id="node11" href="$opencl_8hpp.html" title="OpenCL backend for compute kernel generation/compilation/launching. " alt="" coords="1313,229,1500,256"/>
+<area shape="rect" id="node13" href="$opencl_2error_8hpp.html" title="Output OpenCL errors to a std::stream. " alt="" coords="1218,395,1376,437"/>
+<area shape="rect" id="node15" href="$opencl_2context_8hpp.html" title="OpenCL device enumeration and context initialization. " alt="" coords="1035,395,1193,437"/>
+<area shape="rect" id="node17" href="$opencl_2filter_8hpp.html" title="Device filters for OpenCL backend. " alt="" coords="1605,395,1763,437"/>
+<area shape="rect" id="node25" href="$opencl_2device__vector_8hpp.html" title="OpenCL device vector. " alt="" coords="1269,305,1427,346"/>
+<area shape="rect" id="node26" href="$opencl_2source_8hpp.html" title="Helper class for OpenCL source code generation. " alt="" coords="821,305,979,346"/>
+<area shape="rect" id="node38" href="$opencl_2compiler_8hpp.html" title="OpenCL source code compilation wrapper. " alt="" coords="1787,395,1945,437"/>
+<area shape="rect" id="node39" href="$opencl_2kernel_8hpp.html" title="An abstraction over OpenCL compute kernel. " alt="" coords="1641,305,1799,346"/>
+<area shape="rect" id="node30" href="$common_8hpp.html" title="Common backend utilities. " alt="" coords="1530,493,1731,520"/>
+</map>
